@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patcher", "Patcher\Patcher.csproj", "{59D533A7-F3CC-4155-86B0-73E7F2A5C62A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{4FF7FD51-3F4C-4E84-8870-6F4823AFE29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59D533A7-F3CC-4155-86B0-73E7F2A5C62A}.Debug|x86.ActiveCfg = Debug|x86
+		{59D533A7-F3CC-4155-86B0-73E7F2A5C62A}.Debug|x86.Build.0 = Debug|x86
+		{59D533A7-F3CC-4155-86B0-73E7F2A5C62A}.Release|x86.ActiveCfg = Release|x86
+		{59D533A7-F3CC-4155-86B0-73E7F2A5C62A}.Release|x86.Build.0 = Release|x86
+		{4FF7FD51-3F4C-4E84-8870-6F4823AFE29B}.Debug|x86.ActiveCfg = Debug|x86
+		{4FF7FD51-3F4C-4E84-8870-6F4823AFE29B}.Debug|x86.Build.0 = Debug|x86
+		{4FF7FD51-3F4C-4E84-8870-6F4823AFE29B}.Release|x86.ActiveCfg = Release|x86
+		{4FF7FD51-3F4C-4E84-8870-6F4823AFE29B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

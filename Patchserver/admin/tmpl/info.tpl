@@ -1,0 +1,2 @@
+<h1>Info</h1>
+Der Code des Patchers und der Weboberfläche darf ohne nachfrage verändert und benutzt werden. Es ist nicht erlaubt Teile des Codes oder den ganzen Code zu verkaufen, außerdem ist es nicht erlaubt ohne Genehmigung einen Service zum Verkauf von Patchern mit diesen Code zu starten. Der Code ist weiterhin geistliches Eigentum von Hanashi.
