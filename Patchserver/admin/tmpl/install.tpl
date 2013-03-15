@@ -144,7 +144,7 @@
 				{
 					if (response != "0")
 					{
-						$("#content").html("<fieldset class=\"error\">Error on installing database.</fieldset>");
+						$("#content").html("<fieldset class=\"error\">Error on installing database.<br><br>" + response + "</fieldset>");
 					}
 					else
 					{
@@ -163,7 +163,7 @@
 				{
 					if (response != "0")
 					{
-						$("#content").html("<fieldset class=\"error\">Error on installing Groups.</fieldset>");
+						$("#content").html("<fieldset class=\"error\">Error on installing Groups.<br><br>" + response + "</fieldset>");
 					}
 					else
 					{
@@ -182,7 +182,7 @@
 				{
 					if (response != "0")
 					{
-						$("#content").html("<fieldset class=\"error\">Error on installing Rights.</fieldset>");
+						$("#content").html("<fieldset class=\"error\">Error on installing Rights.<br><br>" + response + "</fieldset>");
 					}
 					else
 					{
@@ -201,7 +201,7 @@
 				{
 					if (response != "0")
 					{
-						$("#content").html("<fieldset class=\"error\">Error on creating Admin.</fieldset>");
+						$("#content").html("<fieldset class=\"error\">Error on creating Admin.<br><br>" + response + "</fieldset>");
 					}
 					else
 					{
@@ -220,7 +220,7 @@
 				{
 					if (response != "0")
 					{
-						$("#content").html("<fieldset class=\"error\">Failed to complete installation.</fieldset>");
+						$("#content").html("<fieldset class=\"error\">Failed to complete installation.<br><br>" + response + "</fieldset>");
 					}
 					else
 					{
